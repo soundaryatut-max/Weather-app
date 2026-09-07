@@ -13,7 +13,7 @@ The main objective of this project is to design a **simple, attractive, and user
 
 1. Welcome/Login
    
-   <img width="402" height="874" alt="welcome" src="https://github.com/user-attachments/assets/0d5ddaaf-8c92-47b7-8e22-d8fb93683ef8" />
+<img width="402" height="874" alt="welcome" src="https://github.com/user-attachments/assets/0d5ddaaf-8c92-47b7-8e22-d8fb93683ef8" />
    
 2.Home page
 
@@ -74,7 +74,7 @@ The project showcases the complete weather experience, including **location sele
 
 ## 👩‍💻 Author
 
-**Name:** Your Name
+**Name:** Soundarya.M
 **Course:** BCA
 **College:** Kamaraj College
 
