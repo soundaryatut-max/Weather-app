@@ -1,7 +1,11 @@
+# Weather-app
+
 prototype link:
 https://www.figma.com/proto/f4jJWsp5HFUeslE5dGEzRl/Untitled?node-id=0-1&t=DJKOlYeBkMTmfEZb-1
 
-# Weather-app
+design link:
+https://www.figma.com/design/f4jJWsp5HFUeslE5dGEzRl/Untitled?node-id=0-1&p=f&t=4Try2HS3LaJhxFb2-0
+
 # 🌤️ Weather App UI Design
 
 ## ✨ Project Overview
